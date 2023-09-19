@@ -1,0 +1,12 @@
+flask
+fpdf
+pandas
+numpy
+flask_cors
+requests
+Pillow
+gunicorn == 20.0.4
+openai
+requests
+keras
+cv2
